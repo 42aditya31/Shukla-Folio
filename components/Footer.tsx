@@ -22,8 +22,8 @@ const Footer = () => {
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
           Let’s bring your vision to life with creativity, strategy, and
-          innovation. <br /> Whether you're starting fresh or leveling up, I’m
-          here to craft something extraordinary for you.
+          innovation. <br /> Whether you are starting fresh or leveling up,
+          I’m here to craft something extraordinary for you.
         </p>
         <a href="mailto:contact@jsmastery.pro">
           <MagicButton
@@ -35,7 +35,7 @@ const Footer = () => {
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
-          Parva Shukla's Folio
+          Parva Shukla&apos;s Folio
         </p>
 
         <div className="flex items-center md:gap-3 gap-6">
